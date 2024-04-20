@@ -1,4 +1,4 @@
-# NLP - Natrual Language processing - Python
+# NLP - Natural Language Processing - Python
 1) Le but de ce projet est de prédire la poralité (modèle régession logistique a été utilisé) des commentaires de client
    sur un restaurant en utilisant le traitement du langage naturel (NLP en anglais). Il y a 4 polarités possibles :
    + Neutral
