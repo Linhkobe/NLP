@@ -13,4 +13,4 @@
    + df_train_resto.csv : le fichier de données d'entraînement (le traitement à partir du fichier "Restaurants_Train.xml"))pour entraîner le modèle.
 3) Package supplémentaire utilisé :
    "en_core_web_sm-3.2.0.tar.gz" est un package pour Spacy, une bibliothèque Python pour le traitement du langage naturel. Il contient un petit modèle de langue anglaise formé sur du      texte Web, avec des règles de tokenisation, des modèles d'analyse, de reconnaissance d'entités nommées et des vecteurs de mots. Vous pouvez l'utiliser pour diverses tâches telles       que l'analyse des parties du discours, la reconnaissance d'entités nommées et l'analyse des dépendances.
-   lien : https://github.com/explosion/spacy-models  
+   Lien : https://github.com/explosion/spacy-models  
